@@ -1,4 +1,4 @@
-package com.projectsimulation.AttendanceSpringBootBackend.Entity;
+package com.projectsimulation.attendance.entity;
 
 import jakarta.persistence.*;
 import lombok.*;

@@ -1,4 +1,4 @@
-package com.projectsimulation.AttendanceSpringBootBackend;
+package com.projectsimulation.attendance;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
